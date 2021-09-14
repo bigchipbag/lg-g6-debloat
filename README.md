@@ -1,9 +1,11 @@
+# background 
+
 This script debloats the stock rom "H87315c_00_OPEN_CA_OP_1026.kdz" which I often reflash to my G6
 
 It's easier to just run a .bat file with all the stuff. 
 
 
-**USAGE:
+# USAGE:
 
 Install the ADB tools from whatever source (lol)
 
