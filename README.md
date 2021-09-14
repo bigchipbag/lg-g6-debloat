@@ -9,7 +9,7 @@ Install the ADB tools from whatever source (lol)
 
 Make sure your phone is set to developer mode, set to USB Debugging, and you've granted access to the computer (run adb shell once then approve on the phone)
 
-Download the only other file here and save it as <something>.bat and run it in the same directory as adb.exe
+Download the only other file here and run it in the same directory as adb.exe
 
 Enjoy phone with less junk
 
