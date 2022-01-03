@@ -9,7 +9,8 @@ It's easier to just run a .bat file with all the stuff.
 
 Install the ADB tools from whatever source (lol)
 
-Make sure your phone is set to developer mode, set to USB Debugging, and you've granted access to the computer (run adb shell once then approve on the phone)
+
+Make sure your phone is set to developer mode, USB Connection is set to MIDI, developer option for USB Debugging is on, and you've granted access to the computer (run adb shell once then approve on the phone)
 
 Download the only other file here and run it in the same directory as adb.exe
 
